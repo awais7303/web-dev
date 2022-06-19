@@ -1,0 +1,17 @@
+.border-top{
+    border-top: blue 3px solid;
+    border-right: blueviolet 3px wavy;
+    border-left: aqua 3px solid;
+    border-bottom: blueviolet 3px solid;
+}
+.world-space{
+    word-spacing:inherit;
+}
+.border{
+    border-width: 2px 3px 2px ;
+    border-style: dashed;
+    border-color: blue; 
+}
+.cursr{
+    cursor: pointer;
+}
